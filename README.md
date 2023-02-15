@@ -1,9 +1,9 @@
-# monde
+# monde - kill-ring displayer
 `"tout le monde le connaît"` - someone
 
 monde is a collection of Emacs Lisp functions, which enable you to interact more easily with your kill-ring. It can 
 - display the kill-ring in a buffer
-- reload the kill-ring interactively in said buffe
+- reload the kill-ring interactively in said buffer
 - copy from that buffer into your kill-ring
 
 ## How-To
