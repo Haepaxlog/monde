@@ -9,7 +9,7 @@ monde is a collection of Emacs Lisp functions, which enable you to interact more
 ## How-To
 
 ### `monde-open-kill-ring-buffer`
-Opens the kill-ring in a right Window Split. The buffer is non-writeable.
+Opens the kill-ring in a right window split. The buffer is non-writable.
 
 ### `monde-reload-buffer`
 Loads kill-ring into current buffer. (Should only be used in designated monde-buffer as it erases the selected buffer)
@@ -20,7 +20,7 @@ Copies text element from an ordered list seperated by newline into the kill-ring
 ## Installing
 After downloading the file, add following command to your Emacs Config File:
 ``` emacs lisp
-(load "path-to-monde.el")
+(load "path-to-monde/monde.el")
 ```
 
 
